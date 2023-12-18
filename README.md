@@ -1,16 +1,16 @@
 
 #React
-react-router-dom
-react-icons
-axios
-react-player
-millify
-momenty
-tailwind
+react-router-dom,
+react-icons,
+axios,
+react-player,
+millify,
+momenty,
+tailwind,
 
 
 #Resource    
 api => https://developer.themoviedb.org/docs
 
 
-![](screenrec.gif)
+![](src/screenrec.gif)
